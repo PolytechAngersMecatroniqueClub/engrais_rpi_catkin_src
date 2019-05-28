@@ -2,8 +2,8 @@
 This folder should be named "src" and placed into the "~/catkin_ws/" folder.
 
 # Remarks about the serial library:
-It is from the following link : http://wjwwood.github.com/serial/
-But all the "git" has been removed in this already build version.
+It is from the following link : http://wjwwood.github.com/serial/, 
+but all the "git" files has been removed in this already built version (rapsberry pi 3B+, xubuntu 18.04).
 
 ## Serial Library memo:
 
